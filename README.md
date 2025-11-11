@@ -1,1 +1,1 @@
-# css-float-assignment
+This is an example of float in CSS
