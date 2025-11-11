@@ -86,7 +86,30 @@ main {
 }
 
 .article-item img {
-    height: 300px;
+    /* height: 300px; */
+    width: 400px;
+}
+
+#gardening-article img {
+    float: left;
+    margin-right: 24px;
+}
+
+#landscaping-article img {
+    float: right;
+    margin-left: 24px;
+}
+
+#img-1 {
+    float: left;
+}
+
+#img-2 {
+    float: right;
+}
+
+#weed-control-article p {
+    clear: both; 
 }
 
 /* ----- Main Aside ----- */
